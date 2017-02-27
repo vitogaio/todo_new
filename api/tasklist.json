@@ -1,0 +1,26 @@
+[
+  {
+    "erledigt": false,
+    "caption": "Erste",
+    "id": 1
+  },
+
+  {
+    "erledigt": false,
+    "caption": "Zweite",
+    "id": 2
+  },
+
+  {
+    "erledigt": false,
+    "caption": "Dritte",
+    "id": 3
+  },
+
+  {
+    "erledigt": false,
+    "caption": "Vierte",
+    "id": 4
+  }
+
+]
